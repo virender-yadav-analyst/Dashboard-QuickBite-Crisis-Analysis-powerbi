@@ -151,10 +151,10 @@ These insights guide targeted recovery strategies outlined in the dashboard.
 - Data-driven recommendations
 
 Add screenshots or link to the final report.
-![Dashboard Screenshot](Screenshot 2025-11-23 223822.png)
-![Dashboard Screenshot](Screenshot 2025-11-23 223835.png)
-![Dashboard Screenshot](Screenshot 2025-11-23 223848.png)
-![Dashboard Screenshot](Screenshot 2025-11-23 223858.png)
+[Dashboard Screenshot](Screenshot 2025-11-23 223822.png)
+[Dashboard Screenshot](Screenshot 2025-11-23 223835.png)
+[Dashboard Screenshot](Screenshot 2025-11-23 223848.png)
+[Dashboard Screenshot](Screenshot 2025-11-23 223858.png)
 ---
 
 
