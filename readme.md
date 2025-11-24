@@ -150,11 +150,11 @@ These insights guide targeted recovery strategies outlined in the dashboard.
 - Sentiment distribution
 - Data-driven recommendations
 
-Add screenshots or link to the final report.
-[Overview]https://github.com/virender-yadav-analyst/Dashboard-QuickBite-Crisis-Analysis-powerbi/blob/5154537317b86b343dce521b083c53082a02c7eb/Screenshot%202025-11-23%20223822.png<br>
-[Delivery](https://github.com/virender-yadav-analyst/Dashboard-QuickBite-Crisis-Analysis-powerbi/blob/5154537317b86b343dce521b083c53082a02c7eb/Screenshot%202025-11-23%20223835.png)<br>
-[Revenue](https://github.com/virender-yadav-analyst/Dashboard-QuickBite-Crisis-Analysis-powerbi/blob/5154537317b86b343dce521b083c53082a02c7eb/Screenshot%202025-11-23%20223848.png)<br>
-[Rating and sentiments](https://github.com/virender-yadav-analyst/Dashboard-QuickBite-Crisis-Analysis-powerbi/blob/5154537317b86b343dce521b083c53082a02c7eb/Screenshot%202025-11-23%20223858.png)
+Add screenshots or link to the final report.<br>
+[Overview](screenshots/overview.png)<br>
+[Delivery](screenshots/Delivery.png)<br>
+[Revenue](screenshots/revenue.png)<br>
+[Rating and sentiments](screenshots/rating.png)<br>
 ---
 
 
