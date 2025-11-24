@@ -151,10 +151,10 @@ These insights guide targeted recovery strategies outlined in the dashboard.
 - Data-driven recommendations
 
 Add screenshots or link to the final report.
-[Dashboard Screenshot](Screenshot 2025-11-23 223822.png)
-[Dashboard Screenshot](Screenshot 2025-11-23 223835.png)
-[Dashboard Screenshot](Screenshot 2025-11-23 223848.png)
-[Dashboard Screenshot](Screenshot 2025-11-23 223858.png)
+[Dashboard Screenshot](https://github.com/virender-yadav-analyst/Dashboard-QuickBite-Crisis-Analysis-powerbi/blob/5154537317b86b343dce521b083c53082a02c7eb/Screenshot%202025-11-23%20223822.png)
+[Dashboard Screenshot](https://github.com/virender-yadav-analyst/Dashboard-QuickBite-Crisis-Analysis-powerbi/blob/5154537317b86b343dce521b083c53082a02c7eb/Screenshot%202025-11-23%20223835.png)
+[Dashboard Screenshot](https://github.com/virender-yadav-analyst/Dashboard-QuickBite-Crisis-Analysis-powerbi/blob/5154537317b86b343dce521b083c53082a02c7eb/Screenshot%202025-11-23%20223848.png)
+[Dashboard Screenshot](https://github.com/virender-yadav-analyst/Dashboard-QuickBite-Crisis-Analysis-powerbi/blob/5154537317b86b343dce521b083c53082a02c7eb/Screenshot%202025-11-23%20223858.png)
 ---
 
 
